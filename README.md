@@ -12,6 +12,7 @@
         <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
         <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
         <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
+        <code><a href="https://opencv.org/" target="_blank"><img height="45"                                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/640px-OpenCV_Logo_with_text_svg_version.svg.png"></a></code>
       </p>
 
 ### Programming Languages 🌐
