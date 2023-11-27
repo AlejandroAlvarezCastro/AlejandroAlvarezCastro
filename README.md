@@ -1,4 +1,4 @@
-# Hi, I’m Alejandro Álvarez Castro 👋
+# Hi, I’m Alejandro 👋
 Data Engineer
 -
 <head>
