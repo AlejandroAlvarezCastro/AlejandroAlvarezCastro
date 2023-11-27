@@ -1,11 +1,12 @@
-<!-- Consider starring my repo @ https://github.com/AlejandroAlvarezCastro/AlejandroAlvarezCastro, much appreciated in advance! -->
+<!-- Consider starring my repo @ https://github.com/reeveng/reeveng, much appreciated in advance! -->
 
-<img src="https://github.com/AlejandroAlvarezCastro/AlejandroAlvarezCastro/blob/master/svg.svg" alt="Hey I'm juice mit apfeln drin, a.k.a. apple juice"/>
+<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg" alt="Hey I'm juice mit apfeln drin, a.k.a. apple juice"/>
 
 <!--
 
 <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
 </em></p>
+
 
 ```javascript
 const aboutMe = {
@@ -28,9 +29,8 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+</br></br>
+<h2>💻 Some stats 💻</h2>
 
-
-
-
-# Hi, I’m Alejandro 👋
-Data Engineer
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+-->
