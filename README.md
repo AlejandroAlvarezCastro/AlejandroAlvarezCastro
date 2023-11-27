@@ -2,7 +2,7 @@
 
 <img src="https://github.com/AlejandroAlvarezCastro/AlejandroAlvarezCastro/blob/main/svg.svg"/>
 
-<p>A Data Engineering student at <a href="https://www.upm.es">Technological University of Madrid</a> 😊</br></p>
+<p>A final's year Data Engineering student at <a href="https://www.upm.es">Technological University of Madrid</a> 😊</br></p>
 
 
 
