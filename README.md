@@ -6,7 +6,7 @@
 
 
 
-### Programming Languages 🌐
+### Programming Languages ⌨
 <p>
         <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
         <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
@@ -28,5 +28,6 @@
         
 </p>
 
+### Technologies 🧑🏼‍💻
 
 
