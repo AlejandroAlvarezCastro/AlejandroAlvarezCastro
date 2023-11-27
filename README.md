@@ -36,6 +36,8 @@
 </p>
 <p>
         <code><a href="https://www.docker.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code> 
-        <code><a href="https://kubernetes.io/es/" target="_blank"><img height="45" src="ttps://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code> 
+        <code><a href="https://kubernetes.io/es/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code> 
+        <code><a href="https://hadoop.apache.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a>
+        <code><a href="https://spark.apache.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a>
 </p>
 
