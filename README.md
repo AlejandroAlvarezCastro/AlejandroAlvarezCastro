@@ -25,6 +25,8 @@
         <code><a href="https://scikit-learn.org/stable/" target="_blank"><img height="45"                                                                                                                                        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
         <code><a href="https://www.tensorflow.org/?hl=es-419" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
         <code><a href="https://keras.io/" target="_blank"><img height="45" src="https://miro.medium.com/v2/resize:fit:600/1*DKu_54iqz6C-p6ndo7rO3g.png"></a></code>
+        <code><a href="https://pypi.org/project/PuLP/" target="_blank"><img height="45" src="https://www.solvermax.com/images/links/pulp.png"></a></code>
+        <code><a href="https://shap.readthedocs.io/en/latest/" target="_blank"><img height="45" src="https://user-images.githubusercontent.com/38404461/65588818-7734b500-df88-11e9-907c-a0bc0c0fdfc1.png"></a></code>
         
 </p>
 
@@ -37,7 +39,7 @@
 <p>
         <code><a href="https://www.docker.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code> 
         <code><a href="https://kubernetes.io/es/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code> 
-        <code><a href="https://hadoop.apache.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a>
-        <code><a href="https://spark.apache.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a>
+        <code><a href="https://hadoop.apache.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a></code> 
+        <code><a href="https://spark.apache.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code> 
 </p>
 
