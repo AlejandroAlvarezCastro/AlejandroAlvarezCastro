@@ -19,12 +19,13 @@
         <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
         <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
         <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
+        <code><a href="https://plotly.github.io/plotly.py-docs/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg"></a></code>
         <code><a href="https://opencv.org/" target="_blank"><img height="45"   
                                                     src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/640px-                                                                        OpenCV_Logo_with_text_svg_version.svg.png"></a></code>
         <code><a href="https://scikit-learn.org/stable/" target="_blank"><img height="45"                                                                                                                                        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
         <code><a href="https://www.tensorflow.org/?hl=es-419" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
         <code><a href="https://keras.io/" target="_blank"><img height="45" src="https://miro.medium.com/v2/resize:fit:600/1*DKu_54iqz6C-p6ndo7rO3g.png"></a></code>
-        <code><a href="https://plotly.github.io/plotly.py-docs/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg"></a></code>
+        
 </p>
 
 
