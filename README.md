@@ -1,3 +1,8 @@
+<!-- Consider starring my repo @ https://github.com/AlejandroAlvarezCastro/AlejandroAlvarezCastro, much appreciated in advance! -->
+
+<img src="https://github.com/AlejandroAlvarezCastro/AlejandroAlvarezCastro/blob/master/svg.svg" alt="Hey I'm juice mit apfeln drin, a.k.a. apple juice"/>
+
+
 # Hi, I’m Alejandro 👋
 Data Engineer
 -
