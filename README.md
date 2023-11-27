@@ -6,7 +6,7 @@
 
 
 
-## Programming Languages ⌨
+# Programming Languages ⌨
 <p>
         <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
         <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
@@ -14,7 +14,7 @@
         <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
 </p>
 
-## Libraries 📚︎
+# Libraries 📚︎
 <p>
         <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
         <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
@@ -30,7 +30,7 @@
         
 </p>
 
-## Technologies 🧑🏼‍💻
+# Technologies 🧑🏼‍💻
 <p>
         <code><a href="https://www.mongodb.com/es" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
         <code><a href="https://www.postgresql.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
