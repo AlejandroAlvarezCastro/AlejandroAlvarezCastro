@@ -23,7 +23,7 @@
                                                     src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/640px-                                                                        OpenCV_Logo_with_text_svg_version.svg.png"></a></code>
         <code><a href="https://scikit-learn.org/stable/" target="_blank"><img height="45"                                                                                                                                        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a></code>
         <code><a href="https://www.tensorflow.org/?hl=es-419" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-        <code><a href="https://keras.io/" target="_blank"><img height="45" src="https://keras.io/img/logo.png"></a></code>
+        <code><a href="https://keras.io/" target="_blank"><img height="45" src="https://miro.medium.com/v2/resize:fit:600/1*DKu_54iqz6C-p6ndo7rO3g.png"></a></code>
         
 </p>
 
