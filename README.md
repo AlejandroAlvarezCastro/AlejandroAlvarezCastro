@@ -29,12 +29,13 @@
 </p>
 
 ## Technologies 🧑🏼‍💻
-
-### 1 Databases
 <p>
         <code><a href="https://www.mongodb.com/es" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
         <code><a href="https://www.postgresql.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
         <code><a href="https://www.mysql.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-        
+</p>
+<p>
+        <code><a href="https://www.docker.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code> 
+        <code><a href="https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/" target="_blank"><img height="45" src="ttps://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code> 
 </p>
 
