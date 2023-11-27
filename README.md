@@ -7,7 +7,7 @@
 <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
-<!-- ```javascript
+```javascript
 const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
    technologies: {
