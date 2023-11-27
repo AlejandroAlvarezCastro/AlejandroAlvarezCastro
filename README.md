@@ -1,6 +1,6 @@
 <!-- Consider starring my repo @ https://github.com/AlejandroAlvarezCastro/AlejandroAlvarezCastro, much appreciated in advance! -->
 
-<img src="https://github.com/AlejandroAlvarezCastro/AlejandroAlvarezCastro/master/svg.svg"/>
+<img src="https://github.com/AlejandroAlvarezCastro/AlejandroAlvarezCastro/blob/master/svg.svg"/>
 
 <!--
 
