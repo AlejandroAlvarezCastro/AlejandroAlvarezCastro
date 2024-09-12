@@ -30,6 +30,8 @@
 </p>
 
 # Technologies 🧑🏼‍💻
+
+## Databases 
 <p>
         <code><a href="https://www.mongodb.com/es" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
         <code><a href="https://www.postgresql.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
