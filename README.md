@@ -2,8 +2,7 @@
 
 <img src="https://github.com/AlejandroAlvarezCastro/AlejandroAlvarezCastro/blob/main/svg.svg"/>
 
-<p>Data Engineering graduate at <a href="https://www.upm.es">Technological University of Madrid</a> 😊</br></p>
-<p>Big Data and Machine Learning student at <a href="https://www.upm.es">Technological University of Madrid</a> 😊</br></p>
+<p>Graduate in Data Engineering and currently pursuing a Master's degree in Big Data and Machine Learning at <a href="https://www.upm.es">Technological University of Madrid</a> 😊</br></p>
 
 
 
